@@ -1,0 +1,2 @@
+# Subscribe
+News update page.
